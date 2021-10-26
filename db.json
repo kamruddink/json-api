@@ -1,4 +1,5 @@
-members [
+{
+  "members" : [
   {"sr_no": "3140", "name": "xyz", "address": "Malwan", "phone1": "7786543", "city": "Mumbai", "state": "Maharashtra", "email": "","donation_mode": "Cash",
         "donation_amt": "100", "donation_type": "Monthly" },
   {"sr_no": "3139", "name": "ABC", "address": "Malwani", "phone1": "9876543", "city": "Mumbai", "state": "Maharashtra", "email": "abc@abc.com",
@@ -188,4 +189,5 @@ members [
         "donation_mode": "Net Banking",
         "donation_amt": "100",
         "donation_type": "Monthly"    },
-]
+  ]
+}
