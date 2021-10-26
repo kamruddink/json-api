@@ -36,7 +36,7 @@
 	"donation_amt": "100","donation_type": "Monthly"    },
 	{"id": "3112","name": "Muhammad Saleem","address": "near Ma","phone1": "9637886","phone2": "","city": "Aurangabad","state": "Maharashtra","email": "","donation_mode": "Net Banking",
 	"donation_amt": "100","donation_type": "Monthly"    }
-  ]
+  ],
   "payments" : [
     {"id": "238","memid":"3140","recpt_no": "4455667","recpt_date": "18-10-2021","recpt_amt": "100","payment_mode": "Cash","remarks": "October" },
     {"id": "235","memid":"3139","recpt_no": "77889","recpt_date": "15-09-2021","recpt_amt": "100","payment_mode": "Cash","remarks": "September months"},
