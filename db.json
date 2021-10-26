@@ -1,8 +1,6 @@
 members [
   {
         "sr_no": "3140",
-        "mem_code": "",
-        "form_no": "",
         "name": "xyz",
         "address": "Malwan",
         "phone1": "7786543",
@@ -10,17 +8,12 @@ members [
         "city": "Mumbai",
         "state": "Maharashtra",
         "email": "",
-        "age": "",
-        "gender": "",
         "donation_mode": "Cash",
         "donation_amt": "100",
-        "donation_type": "Monthly",
-        "pancard": ""
+        "donation_type": "Monthly"       
     },
     {
         "sr_no": "3139",
-        "mem_code": "",
-        "form_no": "",
         "name": "ABC",
         "address": "Malwani",
         "phone1": "9876543",
@@ -28,17 +21,12 @@ members [
         "city": "Mumbai",
         "state": "Maharashtra",
         "email": "abc@abc.com",
-        "age": "",
-        "gender": "Male",
         "donation_mode": "Cash",
         "donation_amt": "100",
-        "donation_type": "Monthly",
-        "pancard": ""
+        "donation_type": "Monthly"
     },
     {
         "sr_no": "3138",
-        "mem_code": "",
-        "form_no": "",
         "name": "PQR",
         "address": "Malwani",
         "phone1": "9876543",
@@ -46,17 +34,12 @@ members [
         "city": "Mumbai",
         "state": "Maharashtra",
         "email": "",
-        "age": "",
-        "gender": "",
         "donation_mode": "Cash",
         "donation_amt": "100",
-        "donation_type": "Monthly",
-        "pancard": ""
+        "donation_type": "Monthly"
     },
     {
         "sr_no": "3126",
-        "mem_code": "",
-        "form_no": "",
         "name": "Mohammed Azaruddin",
         "address": "Balehon",
         "phone1": "9481309",
@@ -64,17 +47,12 @@ members [
         "city": "Chikmagaluru",
         "state": "Karnataka",
         "email": "azaruddin@gamil.com",
-        "age": "34",
-        "gender": "Male",
         "donation_mode": "Net Banking",
         "donation_amt": "100",
-        "donation_type": "Monthly",
-        "pancard": "BAEMP4635C"
+        "donation_type": "Monthly"
     },
     {
         "sr_no": "3125",
-        "mem_code": "",
-        "form_no": "",
         "name": "Mir Jaffar Ali",
         "address": "Mumbai",
         "phone1": "00",
@@ -82,12 +60,9 @@ members [
         "city": "Mumbai",
         "state": "Maharashtra",
         "email": "",
-        "age": "",
-        "gender": "Male",
         "donation_mode": "Net Banking",
         "donation_amt": "100",
-        "donation_type": "Monthly",
-        "pancard": ""
+        "donation_type": "Monthly"
     },
     {
         "sr_no": "3124",
