@@ -43,6 +43,6 @@
     {"id": "234","memid":"3139","recpt_no": "4321","recpt_date": "09-10-2021","recpt_amt": "100","payment_mode": "Cash","remarks": "Current month" },
     {"id": "237","memid":"3139","recpt_no": "0","recpt_date": "07-07-2021","recpt_amt": "100","payment_mode": "IMPS","remarks": "July months" },
     {"id": "236","memid":"3138","recpt_no": "0","recpt_date": "21-08-2021","recpt_amt": "300","payment_mode": "IMPS","remarks": "LAST 3 MONTHS"},
-    {"id": "232","memid":"3138","recpt_no": "0","recpt_date": "05-10-2021","recpt_amt": "100","payment_mode": "Cash","remarks": ""}
+    {"id": "232","memid":"3138","recpt_no": "0","recpt_date": "05-10-2021","recpt_amt": "100","payment_mode": "Cash","remarks": " " }
 ]	
 }
