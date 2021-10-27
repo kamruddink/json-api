@@ -47,17 +47,17 @@
   ],
 "dashboard" : [
 	"monthly": "370529","months_collection": "300","quarterly": "27000","six_monthly": "6550","todays_collection": "0","total_mem": "3008","yearly": "201800",
-	"last_4_months":{
+	"last_4_months":[
  	 {"Month": "July", "months_cash": "100"},
 	 {"Month": "August", "months_cash": "300"},
 	 {"Month": "September", "months_cash": "100"},
 	 {"Month": "October", "months_cash": "300"}
-	},
-	"last_4_reg": {
+	],
+	"last_4_reg": [
 	{"Month": "July", "no_of_reg": "10"},
 	 {"Month": "August",  "no_of_reg": "16"},
 	{"Month": "September",  "no_of_reg": "7"},
 	{"Month": "October",  "no_of_reg": "20"}
-         }
+         ]
   ]	
 }
