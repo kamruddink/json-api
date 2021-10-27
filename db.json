@@ -46,6 +46,7 @@
     {"id": "232","memid":"3138","recpt_no": "0","recpt_date": "05-10-2021","recpt_amt": "100","payment_mode": "Cash","remarks": " " }
   ],
 "dashboard" : [
+	{
 	"total_mem": 3008,
     "yearly": "201800",
     "six_monthly": "6550",
@@ -81,5 +82,6 @@
             "no_of_reg": "2"
         }
     ]
+   }		
   ]	
 }
