@@ -46,7 +46,6 @@
     {"id": "232","memid":"3138","recpt_no": "0","recpt_date": "05-10-2021","recpt_amt": "100","payment_mode": "Cash","remarks": " " }
   ],
 "dashboard" : [
-      {
 	"monthly": "370529","months_collection": "300","quarterly": "27000","six_monthly": "6550","todays_collection": "0","total_mem": "3008","yearly": "201800",
 	"last_4_months":{
  	 {"Month": "July", "months_cash": "100"},
@@ -60,6 +59,5 @@
 	{"Month": "September",  "no_of_reg": "7"},
 	{"Month": "October",  "no_of_reg": "20"}
          }
-     }	 
   ]	
 }
